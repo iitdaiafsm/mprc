@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "mprc-fsm",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
